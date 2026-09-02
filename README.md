@@ -165,9 +165,9 @@ This project is for educational and analytical purposes only. Forecasts are esti
 
 ## Author
 
-**Oluwatimilehin Tomoloju**
+**Liel Takawira**
 
-- GitHub: [@oluwatimilehintomoloju](https://github.com/oluwatimilehintomoloju)
+- GitHub: [@LielTaks](https://github.com/LielTaks)
 
 ## License
 
